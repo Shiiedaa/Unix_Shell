@@ -6,3 +6,7 @@ Student ID: 40328239
 First Name: Tina
 Last Name: Vatanabadi
 Student ID: 40300306
+
+
+Initial code given by Professor Paula Lago 
+Project inspired from the ensimag-shell project in https://github.com/gmounie/ensimag-shell
